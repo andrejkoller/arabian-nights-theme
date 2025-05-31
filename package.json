@@ -1,0 +1,21 @@
+{
+  "name": "arabian-nights-theme",
+  "displayName": "arabian-nights-theme",
+  "description": "A deep, elegant dark theme inspired by desert skies, golden lanterns, and ancient tales from 1001 nights.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arabian Nights Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arabian Nights Theme-color-theme.json"
+      }
+    ]
+  }
+}
