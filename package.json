@@ -2,7 +2,7 @@
   "name": "arabian-nights-theme",
   "displayName": "Arabian Nights Theme",
   "description": "A mystical and elegant VS Code theme inspired by the timeless tales of the Arabian Nights.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "andrejkoller",
   "engines": {
     "vscode": "^1.50.0"
