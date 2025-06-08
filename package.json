@@ -1,10 +1,11 @@
 {
   "name": "arabian-nights-theme",
-  "displayName": "arabian-nights-theme",
-  "description": "A deep, elegant dark theme inspired by desert skies, golden lanterns, and ancient tales from 1001 nights.",
-  "version": "0.0.1",
+  "displayName": "Arabian Nights Theme",
+  "description": "A mystical and elegant VS Code theme inspired by the timeless tales of the Arabian Nights.",
+  "version": "1.0.0",
+  "publisher": "andrejkoller",
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"
@@ -12,10 +13,28 @@
   "contributes": {
     "themes": [
       {
-        "label": "Arabian Nights Theme",
+        "label": "Arabian Nights",
         "uiTheme": "vs-dark",
-        "path": "./themes/Arabian Nights Theme-color-theme.json"
+        "path": "./themes/Arabian-Nights-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrejkoller/arabian-nights-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "arabian",
+    "nights",
+    "vscode",
+    "desert",
+    "mystic"
+  ],
+  "author": {
+    "name": "Andrej Koller",
+    "email": "andrejkoller@outlook.com"
+  },
+  "license": "MIT"
 }

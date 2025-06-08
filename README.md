@@ -1,16 +1,29 @@
-# arabian-nights-theme README
+# 🌙 Arabian Nights — A VS Code Theme
 
-## Working with Markdown
+**Arabian Nights** is a mystical and elegant dark theme for Visual Studio Code, inspired by the enchanted tales of the Middle East. With deep purples, soft ambers, and twilight blues, it brings a unique atmosphere to your development environment.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Carefully balanced color palette
+- Comfortable for long coding sessions
+- Stylized syntax highlighting
+- Themed terminal and merge colors
+- Perfect for night owls and dreamers
 
-## For more information
+## 🖼️ Preview
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Arabian Nights Preview](https://your-screenshot-url)
 
-**Enjoy!**
+## 📥 Installation
+
+1. Press `Ctrl+P` or `Cmd+P` in VS Code
+2. Type `ext install andrejkoller.arabian-nights-theme`
+3. Activate the theme via `Preferences: Color Theme`
+
+## 💜 Inspired by
+
+The magic and mystery of the _One Thousand and One Nights_ — woven into your code editor.
+
+---
+
+Feel free to share feedback or contribute!
