@@ -12,7 +12,7 @@
 
 ## 🖼️ Preview
 
-![Arabian Nights Preview](https://your-screenshot-url)
+![Arabian Nights Preview](https://github.com/user-attachments/assets/64ce646b-9c3c-467a-bd46-5f1429e585f8)
 
 ## 📥 Installation
 
