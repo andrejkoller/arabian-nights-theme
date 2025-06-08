@@ -1,4 +1,4 @@
-# 🌙 Arabian Nights — A VS Code Theme
+# 🌙 Arabian Nights for [Visual Studio Code](http://code.visualstudio.com)
 
 **Arabian Nights** is a mystical and elegant dark theme for Visual Studio Code, inspired by the enchanted tales of the Middle East. With deep purples, soft ambers, and twilight blues, it brings a unique atmosphere to your development environment.
 
@@ -12,7 +12,10 @@
 
 ## 🖼️ Preview
 
-![Arabian Nights Preview](https://github.com/user-attachments/assets/64ce646b-9c3c-467a-bd46-5f1429e585f8)
+![Arabian Nights Preview](images/preview1.png)
+![Arabian Nights Preview](images/preview2.png)
+![Arabian Nights Preview](images/preview3.png)
+![Arabian Nights Preview](images/preview4.png)
 
 ## 📥 Installation
 
@@ -23,7 +26,3 @@
 ## 💜 Inspired by
 
 The magic and mystery of the _One Thousand and One Nights_ — woven into your code editor.
-
----
-
-Feel free to share feedback or contribute!
