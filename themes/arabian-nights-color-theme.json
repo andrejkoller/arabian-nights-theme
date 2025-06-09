@@ -989,7 +989,7 @@
 			"name": "illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f4f2f8"
 			}
 		},
 		{
@@ -1003,21 +1003,21 @@
 			"name": "Broken",
 			"scope": "invalid.broken",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f4f2f8"
 			}
 		},
 		{
 			"name": "Deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f4f2f8"
 			}
 		},
 		{
 			"name": "Unimplemented",
 			"scope": "invalid.unimplemented",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f4f2f8"
 			}
 		},
 		{
@@ -1742,7 +1742,7 @@
 				"constant.other.color.rgb-value.xi"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f4f2f8"
 			}
 		},
 		{
@@ -1868,7 +1868,7 @@
 		"list.activeSelectionForeground": "#f4f2f8",
 		"tree.indentGuidesStroke": "#585858",
 		"list.dropBackground": "#4e445a7c",
-		"list.highlightForeground": "#6e94c1",
+		"list.highlightForeground": "#f4f2f8",
 		"list.focusBackground": "#4e445a7c",
 		"list.focusForeground": "#f4f2f8",
 		"listFilterWidget.background": "#4e445a7c",
@@ -2002,9 +2002,9 @@
 		"tab.activeBorderTop": "#00000000",
 		"tab.inactiveBackground": "#2c2836",
 		"tab.inactiveForeground": "#ffffff80",
-		"scrollbarSlider.background": "#79797966",
-		"scrollbarSlider.hoverBackground": "#646464b3",
-		"scrollbarSlider.activeBackground": "#bfbfbf66",
+		"scrollbarSlider.background": "#8c738666",
+		"scrollbarSlider.hoverBackground": "#a88cb3b3",
+		"scrollbarSlider.activeBackground": "#d0aacb88",
 		"progressBar.background": "#6e94c1",
 		"widget.shadow": "#0000005c",
 		"editorWidget.foreground": "#f4f2f8",
